@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Erigo';
+    src: url('../assets/fonts/Erigo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Camping Holiday';
+    src: url('../assets/fonts/Camping Holiday.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body { background-color: #ffffff; color: #2b2024; }
+
+/* Hide scrollbar for horizontal lists */
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+@font-face {
+    font-family: 'Simple Bold';
+    src: url('../assets/fonts/Simple Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
